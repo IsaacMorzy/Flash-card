@@ -1,0 +1,11 @@
+#initially-show{
+  display: none;
+  color:red;
+}
+.clickable{
+  cursor: pointer;
+  color:#0088cc;
+}
+.clickable:hover{
+  text-decoration: underline;
+}
